@@ -16,6 +16,10 @@ Visualization of the cold wave that swept over Florida on the day of the launch 
 ![jan28_temp_map](https://github.com/thclough/challenger_incident_analysis/blob/main/output/jan28_usa_temp_map.png)
 <br>
 The gift of hindsight provides us with an idea of what might have occurred with more waiting. Temperatures had restabilized only a few days after that tragic day:
+
+<br>
+
 ![feb1_temp_map](https://github.com/thclough/challenger_incident_analysis/blob/main/output/feb1_usa_temp_map.png)
 <br>
-If NASA officials had exercised more patience, they could have avoided such a disaster. Unfortunately, the series of events on January 28th, 1986 will forever leave a scar on NASA history.
+
+If NASA officials had exercised more patience, they could have avoided such a disaster. Unfortunately, the series of events on January 28th, 1986 will forever scar NASA's history.
