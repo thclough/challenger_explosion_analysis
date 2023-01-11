@@ -1,7 +1,7 @@
 # Challenger Incident Analysis
 #### By: Tighe Clough
 
-On January 28th, 1986, a nation watched in disbelief as the space shuttle *Challenger* exploded after lift-off. The disaster resulted in the deaths of all seven crew members, NASA's first in-flight fatalities. Investigation attributed the malfunction to O-ring seal failure under abnormally cold conditions. Temperature analysis provides further insight into the cause of the disaster.
+On January 28th, 1986, a nation watched in disbelief as the space shuttle *Challenger* exploded after lift-off. The disaster resulted in the deaths of all seven crew members, NASA's first in-flight fatalities. Investigation attributed the malfunction to O-ring seal failure under abnormally cold conditions. The O-rings relied on a pressure mechanism to expand and prevent gas leakage but the rings stiffened in cold conditions. Leaking hot gas burned through the booster and set of a chain of events that resulted in a massive explosion. Temperature analysis provides further insight into the cause of the disaster.
 
 Inverse distance-weighted temperature data from weather stations can be used to calculate average temperatures at the launch location (Cape Canaveral, Florida) in 1986:
 <br>
