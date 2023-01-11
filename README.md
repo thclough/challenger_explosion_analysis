@@ -15,7 +15,7 @@ Visualization of the cold wave that swept over Florida on the day of the launch 
 
 ![jan28_temp_map](https://github.com/thclough/challenger_incident_analysis/blob/main/output/jan28_usa_temp_map.png)
 <br>
-Findsight shows that waiting would have been beneficial. Temperatures had restabilized only a few days after that tragic day:
+Findsight shows that waiting would have been beneficial. Temperatures had restabilized only a few days after that tragic event:
 
 <br>
 
